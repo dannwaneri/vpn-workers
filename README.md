@@ -93,7 +93,7 @@ Traditional VPN solutions require managing databases and servers just for user m
 - ⭐ Star this repo to follow progress
 - 💬 Join [Discussions](../../discussions) to suggest features
 - 📝 Read the [full article](https://dev.to/YOUR_USERNAME/ARTICLE_SLUG)
-- 🐦 Follow [@YOUR_TWITTER](https://twitter.com/YOUR_TWITTER)
+- 🐦 Follow [TWITTER](https://x.com/dannwaneri)
 
 ## Roadmap
 
@@ -111,13 +111,13 @@ I'm documenting the entire build process:
 - Lessons learned
 
 **Follow along:**
-- 📝 [DEV.to](https://dev.to/YOUR_USERNAME)
-- 🐦 [Twitter](https://twitter.com/YOUR_TWITTER)
+- 📝 [DEV.to](https://dev.to/dannwaneri)
+- 🐦 [Twitter](https://x.com/dannwaneri)
 - 💬 [Discussions](../../discussions)
 
 ## License
 
-MIT © [YOUR_NAME]
+MIT © [Daniel Nwaneri]
 
 ---
 
