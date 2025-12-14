@@ -117,7 +117,7 @@ I'm documenting the entire build process:
 
 ## License
 
-MIT © [Daniel Nwaneri]
+MIT © Daniel Nwaneri
 
 ---
 
